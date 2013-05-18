@@ -1,0 +1,5 @@
+D:\Documents\C#\Acmp\Problems\acmp_0007_Abba_Csharp\acmp_0007_Abba_Csharp\bin\Debug\acmp_0007_Abba_Csharp.dll
+D:\Documents\C#\Acmp\Problems\acmp_0007_Abba_Csharp\acmp_0007_Abba_Csharp\bin\Debug\acmp_0007_Abba_Csharp.pdb
+D:\Documents\C#\Acmp\Problems\acmp_0007_Abba_Csharp\acmp_0007_Abba_Csharp\obj\Debug\acmp_0007_Abba_Csharp.csprojResolveAssemblyReference.cache
+D:\Documents\C#\Acmp\Problems\acmp_0007_Abba_Csharp\acmp_0007_Abba_Csharp\obj\Debug\acmp_0007_Abba_Csharp.dll
+D:\Documents\C#\Acmp\Problems\acmp_0007_Abba_Csharp\acmp_0007_Abba_Csharp\obj\Debug\acmp_0007_Abba_Csharp.pdb
